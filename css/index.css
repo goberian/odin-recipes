@@ -1,0 +1,26 @@
+body {
+    background-color: wheat;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+section.top {
+    background-color: white;
+    text-align: center;
+}
+
+section.top figcaption {
+    text-align: justify;
+}
+
+section.top p {
+    text-align: right;
+}
+
+section.recipes {
+    background-color: white;
+    text-align: center;
+}
+
+section.recipes ul {
+    list-style: none;
+}
